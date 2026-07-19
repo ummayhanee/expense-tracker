@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A modern Expense Tracker web application built using **Python, Flask, SQLite, HTML, CSS, and Bootstrap**.
+A modern full-stack Expense Tracker web application built using **Python, Flask, SQLite, HTML, CSS, and Bootstrap**.
 
 This application allows users to securely register, log in, and manage their personal expenses with a clean and responsive dashboard.
 
